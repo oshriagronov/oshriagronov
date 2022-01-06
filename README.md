@@ -1,5 +1,4 @@
 ### Hi there 👋
-<img src="https://komarev.com/ghpvc/?username=your-github-oshriv65">
 - 🔭 I’m currently working on Brick Breaker GAME(java)!
 - 🌱 I’m currently learning java.
 - 👯 I’m looking to collaborate on any new projects to learn stuff!
