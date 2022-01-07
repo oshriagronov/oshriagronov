@@ -8,7 +8,7 @@
 - ⚡ Fun fact: Most people fall asleep in seven minutes (for me one minute is enough).
 
 <h3 align="left">Languages and Tools:</h3>
-<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/devicon/devicon-original.svg'>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
