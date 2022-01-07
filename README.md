@@ -10,7 +10,7 @@
 <h3 align="left">Languages and Tools:</h3>
 <img src/>
 <p align="left">
-<a img src="="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" height="30" width="40" /></a>
+<a img src="="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="40" height="30" ></a>
 </p>
 
 <h3 align="left">Connect with me:</h3>
