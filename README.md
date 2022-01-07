@@ -7,12 +7,6 @@
 - 🥅 2022 Goals: get better than last year :) 
 - ⚡ Fun fact: Most people fall asleep in seven minutes (for me one minute is enough).
 
-<h3 align="left">Languages and Tools:</h3>
-<img src/>
-<p align="left">
-<a  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg"> width="40" height="40" </a>
-</p>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/OshriAgronov" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="" height="30" width="40" /></a>
