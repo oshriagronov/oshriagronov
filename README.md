@@ -4,7 +4,7 @@
 - 👯 I’m looking for a job(intern) so i could participate in projects and expand my knowledge.
 - 💬 Ask me about anything related to tech and Marvel!
 - 📫 How to reach me: Gmail - oshriv65@gmail.com .
-- 🥅 2022 Goals: Basically i want be better than i was last year :smile: .
+- 🥅 2022 Goals: Basically i want to be better than i was last year :smile: .
 - ⚡ Fun fact: Most people fall asleep in seven minutes for me one minute is enough 😪.
 
 <h3 align="left">Connect with me:</h3>
