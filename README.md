@@ -1,4 +1,4 @@
-## 👨‍💻About me
+## 👨‍💻 About me
 I’m a passionate developer who loves turning ideas into real products. Since my early teens, I’ve been building projects for myself. 
 <br/>I finished my Practical Engineer in Electronics and Computers and currently pursuing my B.Sc. in Software Engineering.
 <br/>I’m constantly sharpening my skills in modern programming languages, frameworks, and cutting-edge technologies.
@@ -22,5 +22,5 @@ I’m a passionate developer who loves turning ideas into real products. Since m
   </div>
 
  
-## 📊Statistics
+## 📊 Statistics
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oshriagronov"/>
