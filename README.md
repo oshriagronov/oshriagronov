@@ -19,7 +19,3 @@ I’m a passionate developer who loves turning ideas into real products. Since m
     <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain-wordmark.svg" title="PostgresSQL" **alt="PostgresSQL" width="40" height="40"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
   </div>
-
- 
-## 📊 Statistics
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oshriagronov"/>
