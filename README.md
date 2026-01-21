@@ -13,7 +13,7 @@ I like building real projects, from client server systems and backend services t
 I’m a self-learner who enjoys deepening my understanding of software engineering concepts, exploring new tools, and continuously improving how I write and design software.
 
 ### 👨‍💻 Skills:
-- **Programming**: C, C++, Java, JavaScript, Node.js, Python
+- **Programming**: C, C++, Java, JavaScript, HTML & CSS, Python
 - **Databasses**: PostgreSQL, MongoDB
 - **Tools**: Git, Docker, Linux, VS Code
 
