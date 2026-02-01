@@ -18,6 +18,3 @@ I’m a self-learner who enjoys deepening my understanding of software engineeri
 - **Tools**: Git, Docker, Linux, VS Code
 
 I enjoy solving problems, building useful systems, and learning through hands-on projects. Always open to discussing ideas, collaborating, or sharing experiences.
-
-### 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oshri-agronov)
